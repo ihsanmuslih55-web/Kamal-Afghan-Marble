@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "White Afghan Marble",
+        "price": 5500,
+        "description": "A Grade\r\nHigh quality white marble from Afghanistan.\r\nSuitable for floors, walls, and luxury building decoration.\r\nStrong, long-lasting, and export quality material.",
+        "images": [
+            "1778010982_69fa4b66dde26.jpg",
+            "1778010982_69fa4b66de6ba.jpg",
+            "1778010982_69fa4b66de856.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Black Premium Marble",
+        "price": 7200,
+        "description": "A Grade\r\nDark black premium marble with smooth surface.\r\nUsed in modern buildings, hotels, and luxury interiors.\r\nHighly polished and export standard quality.",
+        "images": [
+            "1778011119_69fa4bef62902.jpg",
+            "1778011119_69fa4bef62bf4.jpg",
+            "1778011119_69fa4bef62e50.jpg",
+            "1778011119_69fa4bef631e4.jpg",
+            "1778011119_69fa4bef63473.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Black Premium Marble",
+        "price": 566,
+        "description": "B Grade\r\nDark black premium marble with smooth surface.\r\nUsed in modern buildings, hotels, and luxury interiors.\r\nHighly polished and export standard quality.",
+        "images": [
+            "1778011203_69fa4c4304945.jpg",
+            "1778011203_69fa4c4304b73.jpg",
+            "1778038326_69fab6364f40b.jpg",
+            "1778038326_69fab6364fb9d.jpg",
+            "1778038326_69fab6365030e.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Black Premium Marble",
+        "price": 453,
+        "description": "C Grade\r\nDark black premium marble with smooth surface.\r\nUsed in modern buildings, hotels, and luxury interiors.\r\nHighly polished and export standard quality.",
+        "images": [
+            "1778011251_69fa4c738ddde.jpg",
+            "1778011251_69fa4c738df39.jpg",
+            "1778011251_69fa4c738e07a.jpg",
+            "1778011251_69fa4c738e276.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "ali",
+        "price": 800,
+        "description": "hjkhkuhhgftft",
+        "images": [
+            "1778038500_69fab6e4bc70d.jpg",
+            "1778038500_69fab6e4bc947.jpg",
+            "1778038500_69fab6e4bcc78.jpg",
+            "1778038500_69fab6e4bd2bb.jpg",
+            "1778038500_69fab6e4bd5fd.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "ihsanullah muslih",
+        "price": 677,
+        "description": "hjkkkj",
+        "images": [
+            "1778042614_69fac6f6375f9.jpg",
+            "1778042614_69fac6f63789a.jpg",
+            "1778042614_69fac6f637b67.jpg",
+            "1778042614_69fac6f63857f.jpg",
+            "1778042614_69fac6f63882c.jpg",
+            "1778042614_69fac6f638ad6.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "ali",
+        "price": 0,
+        "description": "ghhjjjj",
+        "images": [
+            "1778044523_69face6b4ba09.jpg",
+            "1778044523_69face6b4bd69.jpg",
+            "1778044523_69face6b4c08d.jpg",
+            "1778044523_69face6b4cbf6.jpg",
+            "1778044523_69face6b4cf75.jpg",
+            "1778044523_69face6b4d330.jpg"
+        ]
+    }
+]
